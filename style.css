@@ -1,0 +1,47 @@
+.top-container img {
+  width: 250px; /* adjust the size as per your requirement */
+  height: 250px; /* adjust the size as per your requirement */
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+body {
+  background-color:#ADD8E6;
+  color: #0F4C81c4;
+  margin: 0;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1 {
+  color: #0F4C81;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  /* Import font from Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+/* Set font for elements */
+body {
+  font-family:'Montserrat', sans-serif;
+}
+
+}
+
+h2 {
+  color: #0F4C81;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #0F4C81;
+  font-family:
+  .top-container {
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+  }
+  
+  
